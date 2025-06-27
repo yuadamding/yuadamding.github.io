@@ -11,8 +11,8 @@ owner:
   bio: "NSF Postdoctoral Fellow"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: coltanparker
-  linkedin: #username
+  twitter: #username
+  linkedin: www.linkedin.com/in/coltan-parker
   github: coltanparker
   orcid: 0000-0001-6257-2598
   researchgate: Coltan-Parker
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#ffd520'
-lowlight-color: '#807540'
+highlight-color: '#53b56c'
+lowlight-color: '#28703a'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
