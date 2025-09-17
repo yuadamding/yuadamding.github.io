@@ -27,5 +27,5 @@ __Other long-term learnings__
 
 I have many long-term learning goals, focused primarily on exploring the most dynamic and rapidly changing aspects of our world. Having passed the CFA Level I exam and multiple SOA exams (P, FM, SRM, STAM, LTAM, PA), I am particularly interested in quantitative finance, using both empirical and analytical methods. I also draw inspirations from the works of Immanuel Kant and Max Weber.
 
-“Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me. I do not seek or conjecture either of them as if they were veiled obscurities or extravagances beyond the horizon of my vision; I see them before me and connect them immediately with the consciousness of my existence.”
-— Immanuel Kant
+Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir, und das moralische Gesetz in mir.
+— Immanuel Kant, *Critique of Practical Reason*
