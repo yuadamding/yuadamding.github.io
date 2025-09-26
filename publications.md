@@ -10,6 +10,8 @@ Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
 __*Manuscripts*__
+- **Boundary-Specific Remodeling Defines Divergent TLS Maturation in Colorectal Cancer**\
+Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. Allison Institute Scientific Symposium, 2025
 
 - **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
