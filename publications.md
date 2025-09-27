@@ -9,36 +9,11 @@ Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first 
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
-__*Manuscripts*__
+__*Published/Accepted*__
+
 - **Boundary-Specific Remodeling Defines Divergent TLS Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
-Submitted to <em>Allison Institute Scientific Symposium 2025</em>
-
-- **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-Submitted to <em>IEEE Transactions on Automation Science and Engineering</em>. Minor Revision.\
-**QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
-[[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
-[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
-
-- **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
-Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
-Submitted to <em>Journal of American College Health</em>.
-
-- **Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-Pending Submission to <em>IEEE Transactions on Privacy</em>.
-[[Code]](https://github.com/yuadamding/s2dp_federated_study)
-
-- **Multi-System Conditional-Based Maintenance Planning with Soical Equity**\
-**Ding, Y.**, Si, W.<sup>*</sup> \
-Pending Submission to <em>Management Science</em>.
-
-- **Condition-based Maintenance Planning with Memory Effects**\
-Si, W.<sup>*</sup>, Jia, Y, **Ding, Y.**,\
-Pending Submission to <em>IISE Transactions</em>.
-
-__*Published/Accepted*__
+Accepted by <em>Allison Institute Scientific Symposium 2025</em>
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2025) \
@@ -73,6 +48,33 @@ Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B.
 **Ding, Y.**, Yang, Q., King, C. B., Hong, Y. (2019) \
 <em>IEEE Transactions on Reliability</em>, 68(4), 1272-1282.
 [[https://doi.org/10.1109/TR.2018.2883983]](https://doi.org/10.1109/TR.2018.2883983)
-        
+
+
+
+__*Manuscripts*__
+
+- **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
+Submitted to <em>IEEE Transactions on Automation Science and Engineering</em>. Minor Revision.\
+**QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
+[[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
+[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
+
+- **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
+Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
+Submitted to <em>Journal of American College Health</em>.
+
+- **Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
+Pending Submission to <em>IEEE Transactions on Privacy</em>.
+[[Code]](https://github.com/yuadamding/s2dp_federated_study)
+
+- **Multi-System Conditional-Based Maintenance Planning with Soical Equity**\
+**Ding, Y.**, Si, W.<sup>*</sup> \
+Pending Submission to <em>Management Science</em>.
+
+- **Condition-based Maintenance Planning with Memory Effects**\
+Si, W.<sup>*</sup>, Jia, Y, **Ding, Y.**,\
+Pending Submission to <em>IISE Transactions</em>.
 
 
