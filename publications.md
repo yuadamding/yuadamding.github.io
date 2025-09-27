@@ -11,7 +11,7 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 
 __Published/Accepted__
 ---
-**Boundary-Specific Remodeling Defines Divergent TLS Maturation in Colorectal Cancer**\
+**Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 Accepted by <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
 
