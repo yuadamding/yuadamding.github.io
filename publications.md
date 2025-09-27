@@ -13,7 +13,7 @@ __*Published/Accepted*__
 
 - **Boundary-Specific Remodeling Defines Divergent TLS Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
-Accepted by <em>Allison Institute Scientific Symposium 2025</em>
+Accepted by <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
 
 - **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2025) \
