@@ -11,7 +11,8 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 
 __*Manuscripts*__
 - **Boundary-Specific Remodeling Defines Divergent TLS Maturation in Colorectal Cancer**\
-Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. Allison Institute Scientific Symposium, 2025
+Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
+Submitted to <em>Allison Institute Scientific Symposium 2025</em>
 
 - **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
