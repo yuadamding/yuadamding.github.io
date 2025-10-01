@@ -69,6 +69,7 @@ Submitted to <em>Journal of American College Health</em>.
 Pending Submission to <em>IEEE Transactions on Privacy</em>.
 [[Code]](https://github.com/yuadamding/s2dp_federated_study)
 
+<!---
 **Multi-System Conditional-Based Maintenance Planning with Soical Equity**\
 **Ding, Y.**, Si, W.<sup>*</sup> \
 Pending Submission to <em>Management Science</em>.
@@ -76,5 +77,5 @@ Pending Submission to <em>Management Science</em>.
 **Condition-based Maintenance Planning with Memory Effects**\
 Si, W.<sup>*</sup>, Jia, Y, **Ding, Y.**,\
 Pending Submission to <em>IISE Transactions</em>.
-
+--->
 
