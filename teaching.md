@@ -29,4 +29,6 @@ __Wayne State University__
  - IE 7270 Reliability Estimation (graduate class)
      - *Teaching Assistant*, Fall 2017
 
+__Others__
+- An Introduction to Python Applications in AI and Machinel Learning
 
