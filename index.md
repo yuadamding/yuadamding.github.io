@@ -20,7 +20,7 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
  
 ---
 #  News
-**`JAN 2026`** : Our paper "[Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine]()" was accepted by IEEE Transactions on Automation Science and Engineering (TASE). <br>
+**`JAN 2026`** : Our paper "[Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine](https://doi.org/10.1109/TASE.2026.3660098)" was accepted by IEEE Transactions on Automation Science and Engineering (TASE). <br>
 **`Nov 2025`** : [CliPP v1.4.0](https://github.com/wwylab/CliPP) is released. CliPP (Clonal structure identification through penalizing pairwise differences) is a fast and accurate tool for single-sample subclonal reconstruction. <br>
 **`Sep 2025`** : Our paper "Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer" as well as two posters about [TLS](/files/Poster-Afrooz_Jahedi-36x48_45x60-Final_Allison_Symp_2025.pdf) and [cell-cell interaction](/files/AllisonSymposium_FINAL_Amina,NUR2025.pdf) were accepted by James P. Allison Institute 3rd Annual Scientific Symposium 2025, MD Anderson Cancer Center. <br>
 **`Aug 2025`** : Yu was appointed as Warren Alpert Computational Biology and AI Network Fellow of UCLA Computational Genomics Summer Institute. <br>
