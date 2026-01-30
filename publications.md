@@ -53,7 +53,7 @@ Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B.
 [[https://doi.org/10.1080/24725579.2021.1980467]](https://doi.org/10.1080/24725579.2021.1980467)
 
 **A general accelerated destructive degradation testing model for reliability analysis**\
-**Ding, Y.**, Yang, Q., King, C. B., Hong, Y. (2019) \
+**Ding, Y.**, Yang, Q. <sup>*</sup>, King, C. B., Hong, Y. (2019) \
 <em>IEEE Transactions on Reliability</em>, 68(4), 1272-1282.
 [[https://doi.org/10.1109/TR.2018.2883983]](https://doi.org/10.1109/TR.2018.2883983)
 
