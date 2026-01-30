@@ -11,6 +11,14 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 
 __Published/Accepted__
 ---
+
+**Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
+Submitted to <em>IEEE Transactions on Automation Science and Engineering</em>. Accepted.\
+**QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
+[[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
+[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
+
 **Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 Accepted by <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
@@ -53,18 +61,12 @@ Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B.
 
 __Manuscripts__
 ---
-**Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-Submitted to <em>IEEE Transactions on Automation Science and Engineering</em>. Minor Revision.\
-**QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
-[[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
-[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
 
 **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
 Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
 Submitted to <em>Journal of American College Health</em>.
 
-**Vertical Federated Learning of Gradient Boosting for Functional Regression with Differential Privacy**\
+**Single-Shot Differentially Private Vertical Federated Function-on-function Learning**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
 Pending Submission to <em>IEEE Transactions on Privacy</em>.
 [[Code]](https://github.com/yuadamding/s2dp_federated_study)
