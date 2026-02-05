@@ -9,6 +9,15 @@ Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first 
 
 My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
 
+
+__Manuscripts__
+---
+
+**Single-Shot Differentially Private Vertical Federated Function-on-function Learning**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
+Pending Submission to <em>IEEE Transactions on Privacy</em>.
+[[Code]](https://github.com/yuadamding/s2dp_federated_study)
+
 __Published/Accepted__
 ---
 
@@ -59,17 +68,6 @@ Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B.
 
 
 
-__Manuscripts__
----
-
-**Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
-Mueller, S.<sup>*</sup>, Si, B., Sutherland, M., Hutchinson, K, **Ding, Y.** \
-Submitted to <em>Journal of American College Health</em>.
-
-**Single-Shot Differentially Private Vertical Federated Function-on-function Learning**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-Pending Submission to <em>IEEE Transactions on Privacy</em>.
-[[Code]](https://github.com/yuadamding/s2dp_federated_study)
 
 <!---
 **Multi-System Conditional-Based Maintenance Planning with Soical Equity**\
