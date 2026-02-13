@@ -19,7 +19,7 @@ Pending Submission to <em>IEEE Transactions on Privacy</em>.
 [[Code]](https://github.com/yuadamding/s2dp_federated_study)
 
 **Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
-Jiang, Y., Montierth, M.D., **Ding, Y**, Yu, K., Ji, S., Tran, Q., Liu, X., Lal, J.C., Guo, S., Wu, A., Dai, Y., ..., Wang, W <sup>*</sup>  
+Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
 [[Code]](https://github.com/wwylab/CliPP)
 
 __Published/Accepted__
