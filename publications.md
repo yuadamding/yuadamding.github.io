@@ -23,7 +23,7 @@ Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, 
 [[Code]](https://github.com/wwylab/CliPP)
 
 **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
-Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**,Si, B., Hutchinson, M. K. \
+Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
 Minor revision by <em>Journal of Health Equity</em>.
 
 __Published/Accepted__
