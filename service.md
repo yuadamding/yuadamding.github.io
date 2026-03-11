@@ -7,6 +7,7 @@ menuorder: 5
 
 
 __*Review of Journals*__
+- **Journal of the American Statistical Association** 1 time
 - **Nature Reviews Cancer** 1 time
 - **IEEE Transactions on Medical Imaging** 1 time
 
