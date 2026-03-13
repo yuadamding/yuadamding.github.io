@@ -21,7 +21,7 @@ Pending Submission to <em>IEEE Transactions on Privacy</em>.
 **Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
 Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
 [[Code]](https://github.com/wwylab/CliPP) \
-<em>Research in Computational Molecular Biology 2026</em>
+<em>Research in Computational Molecular Biology (RECOMB) 2026</em>
 
 **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
 Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
@@ -33,7 +33,7 @@ Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 
 **Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
 Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup> 
-<em>Research in Computational Molecular Biology 2026</em>
+<em>Research in Computational Molecular Biology (RECOMB) 2026</em>
 
 __Published/Accepted__
 ---
