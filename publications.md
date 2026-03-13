@@ -20,7 +20,8 @@ Pending Submission to <em>IEEE Transactions on Privacy</em>.
 
 **Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
 Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
-[[Code]](https://github.com/wwylab/CliPP)
+[[Code]](https://github.com/wwylab/CliPP) \
+<em>Research in Computational Molecular Biology 2026</em>
 
 **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
 Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
@@ -29,6 +30,10 @@ Minor revision by <em>Journal of Health Equity</em>.
 **Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
+
+**Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
+Ankita Paul*, Jessica C. Lal1*, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup> 
+<em>Research in Computational Molecular Biology 2026</em>
 
 __Published/Accepted__
 ---
