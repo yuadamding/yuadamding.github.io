@@ -32,7 +32,7 @@ Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
 
 **Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
-Ankita Paul*, Jessica C. Lal1*, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup> 
+Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup> 
 <em>Research in Computational Molecular Biology 2026</em>
 
 __Published/Accepted__
