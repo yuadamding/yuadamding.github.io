@@ -39,15 +39,15 @@ __Published/Accepted__
 ---
 
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-<em>IEEE Transactions on Automation Science and Engineering</em>. Accepted.[[https://doi.org/10.1109/TASE.2026.3660098]](https://doi.org/10.1109/TASE.2026.3660098)\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2026) \
+<em>IEEE Transactions on Automation Science and Engineering</em>. vol. 23, pp. 4704-4716.[[https://doi.org/10.1109/TASE.2026.3660098]](https://doi.org/10.1109/TASE.2026.3660098)\
 **QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
 [[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
 [[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
 
 **A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
 **Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2025) \
-<em>IISE Transactions</em>, 1–15.
+<em>IISE Transactions</em>, 57(12), 1497–1511.
 [[https://doi.org/10.1080/24725854.2024.2445776]](https://doi.org/10.1080/24725854.2024.2445776)
 
 **Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare**\
@@ -56,7 +56,7 @@ __Published/Accepted__
 
 **Health screenings in college health centers: Variations in practice**\
 Sutherland, M. A.<sup>*</sup>, Hutchinson, M. K., Si, B., **Ding, Y.**, Liebermann, E., Connolly, S. L., … Mueller, S. D.  (2024) \
-<em>Journal of American College Health</em>, 1–8.
+<em>Journal of American College Health</em>, 73(8), 3031–3038.
 [[https://doi.org/10.1080/07448481.2024.2361307]](https://doi.org/10.1080/07448481.2024.2361307)
 
 **Student Health Services at Historically Black Colleges and Universities and Predominantly Black Institutions in the United States**\
