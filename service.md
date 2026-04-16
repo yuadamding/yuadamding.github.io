@@ -7,9 +7,9 @@ menuorder: 5
 
 
 __*Review of Journals*__
-- **Journal of the American Statistical Association** 1 time
-- **Nature Reviews Cancer** 1 time
-- **IEEE Transactions on Medical Imaging** 1 time
+- **Journal of the American Statistical Association** 
+- **Nature Reviews Cancer** 
+- **IEEE Transactions on Medical Imaging** 
 
 __*Volunteer*__
 - Lab Manager of Microstructure Manufacturing Lab, Wayne State University, 2019.
