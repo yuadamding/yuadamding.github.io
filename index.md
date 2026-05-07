@@ -20,6 +20,8 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
  
 ---
 #  News
+**`May 2026`** : Our paper "[Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model
+](https://www.biorxiv.org/content/10.1101/2021.03.31.437383v2)" is available via BioRxiv. <br>
 **`May 2026`** : Our paper "[Tumor cell specific total mRNA expression informed neural networks predicts cancer progression](https://doi.org/10.64898/2026.05.01.722212)" is available via BioRxiv. <br>
 **`JAN 2026`** : Our paper "[Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine](https://doi.org/10.1109/TASE.2026.3660098)" was accepted by IEEE Transactions on Automation Science and Engineering (TASE). <br>
 **`Nov 2025`** : [CliPP v1.4.0](https://github.com/wwylab/CliPP) is released. CliPP (Clonal structure identification through penalizing pairwise differences) is a fast and accurate tool for single-sample subclonal reconstruction. <br>
