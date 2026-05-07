@@ -34,6 +34,7 @@ Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 **Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
 Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup>  \
 <em>Research in Computational Molecular Biology (RECOMB) 2026</em>
+[[https://doi.org/10.64898/2026.05.01.722212]](https://doi.org/10.64898/2026.05.01.722212)
 
 __Published/Accepted__
 ---
