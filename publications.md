@@ -24,6 +24,11 @@ Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, 
 <em>Research in Computational Molecular Biology (RECOMB) 2026</em>
 [[https://doi.org/10.1101/2021.03.31.437383]](https://doi.org/10.1101/2021.03.31.437383)
 
+**Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
+Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup>  \
+<em>Research in Computational Molecular Biology (RECOMB) 2026</em>
+[[https://doi.org/10.64898/2026.05.01.722212]](https://doi.org/10.64898/2026.05.01.722212)
+
 **Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
 Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
 Minor revision by <em>Journal of Health Equity</em>.
@@ -32,10 +37,6 @@ Minor revision by <em>Journal of Health Equity</em>.
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
 
-**Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
-Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup>  \
-<em>Research in Computational Molecular Biology (RECOMB) 2026</em>
-[[https://doi.org/10.64898/2026.05.01.722212]](https://doi.org/10.64898/2026.05.01.722212)
 
 __Published/Accepted__
 ---
