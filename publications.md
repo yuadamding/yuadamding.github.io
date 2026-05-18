@@ -29,10 +29,6 @@ Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K.,
 <em>Research in Computational Molecular Biology (RECOMB) 2026</em>
 [[https://doi.org/10.64898/2026.05.01.722212]](https://doi.org/10.64898/2026.05.01.722212)
 
-**Access to Campus Health Services at MSI and Non-MSI Colleges and Universities in the U.S.**\
-Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
-Minor revision by <em>Journal of Health Equity</em>.
-
 **Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 <em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
@@ -40,6 +36,9 @@ Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 
 __Published/Accepted__
 ---
+**A Cross-Sectional Analysis of Comprehensive Campus Health Services at MSI and Non-MSI Institutions in the U.S.**\
+Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
+Accepted by <em>Journal of Health Equity</em>.
 
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2026) \
