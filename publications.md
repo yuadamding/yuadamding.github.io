@@ -13,11 +13,6 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 __Manuscripts__
 ---
 
-**Single-Shot Differentially Private Vertical Federated Function-on-function Learning**\
-**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
-Pending Submission to <em>IEEE Transactions on Privacy</em>.
-[[Code]](https://github.com/yuadamding/s2dp_federated_study)
-
 **Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
 Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
 [[Code]](https://github.com/wwylab/CliPP) \
@@ -28,6 +23,12 @@ Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, 
 Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup>  \
 <em>Research in Computational Molecular Biology (RECOMB) 2026</em>
 [[https://doi.org/10.64898/2026.05.01.722212]](https://doi.org/10.64898/2026.05.01.722212)
+
+**Single-Shot Differentially Private Vertical Federated Function-on-function Learning**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
+Pending Submission to <em>IEEE Transactions on Privacy</em>.
+[[Code]](https://github.com/yuadamding/s2dp_federated_study)
+
 
 **Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer**\
 Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
