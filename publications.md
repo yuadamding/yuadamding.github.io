@@ -38,8 +38,8 @@ Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
 __Published/Accepted__
 ---
 **A Cross-Sectional Analysis of Comprehensive Campus Health Services at MSI and Non-MSI Institutions in the U.S.**\
-Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. \
-Accepted by <em>Journal of Health Equity</em>. [[https://doi.org/10.1080/29944694.2026.2679111]](https://doi.org/10.1080/29944694.2026.2679111)
+Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. (2026) \
+<em>Journal of Health Equity</em>. [[https://doi.org/10.1080/29944694.2026.2679111]](https://doi.org/10.1080/29944694.2026.2679111)
 
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 **Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2026) \
