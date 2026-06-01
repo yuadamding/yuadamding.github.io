@@ -19,7 +19,7 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
  
 ---
 #  News
-**`May 2026`** : Our paper [A Cross-Sectional Analysis of Comprehensive Campus Health Services at MSI and Non-MSI Institutions in the U.S.]() is accepted by Journal of Health Equity. <br>
+**`May 2026`** : Our paper [A Cross-Sectional Analysis of Comprehensive Campus Health Services at MSI and Non-MSI Institutions in the U.S.](https://doi.org/10.1080/29944694.2026.2679111) is accepted by Journal of Health Equity. <br>
 **`May 2026`** : Our paper "[Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model
 ](https://www.biorxiv.org/content/10.1101/2021.03.31.437383v2)" is available via BioRxiv. <br>
 **`May 2026`** : Our paper "[Tumor cell specific total mRNA expression informed neural networks predicts cancer progression](https://doi.org/10.64898/2026.05.01.722212)" is available via BioRxiv. <br>
