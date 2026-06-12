@@ -13,6 +13,15 @@ My articles are also available on [my Google Scholar profile](https://scholar.go
 __Manuscripts__
 ---
 
+**Host Nutritional State Reprograms Hepatic Anti-Tumor Immunity, Shaping Tumor Progression and Immunotherapy Outcome**\
+Shabnam Shalapour; Darleny L Corona; Laurence P Diggs; Jianming Zeng; Amber N Mitchell; Mhd Yousuf Yassouf; Anik Banerjee; Ashish V Damania; Albert Nguyen; Nicolas T Ryujin; Dana Moradi; Yaoyi Dai; Jian Huang; Yu Ding; Monika A Zelazowska; Evan Xia; Bethany Elliot; Jillliane K Nguyen; Mark D Long; Yara Abboud; Charles Manning; Rajneesh Pathania; Ahmed Kaseb; Kevin McBride; Erin H Seeley; Ludmil B Alexandrov; Jennifer A Wargo; Alexander A Aksenov; Wenyi Wang; Spencer R Rosario; Xiling Shen; Nadim J Ajami 
+<em>Under review by Cancer Cell</em>
+
+
+**Macronutrient Composition and Alcohol Drives Distinct Molecular and Oncogenic Trajectories in the Liver**\
+Shabnam Shalapour; Spencer R Rosario; Amber N Mitchell; Yuhe Cheng; Dana Moradi; Darleny L Corona; Mhd Yousuf Yassouf; Yaoyi Dai; Anik Banerjee; Nicolas T Ryujin; Ashish V Damania; Jian Huang; Anna Chechenina; Jianming Zeng; Jilliane K Nguyen; Albert Nguyen; Xiaoxia Wen; Evan Xia; Yu Ding; Yara Abboud; Rebecca A Soto; Asif Rashid; Mark D Long; Laura Beretta; Laurence P Diggs; Xiling Shen; Jennifer A Wargo; Charles Manning; Sanju Sinha; Nadim J Ajami; Wenyi Wang; Alexander A Aksenov; Ludmil B Alexandrov 
+<em>Under review by Cell</em>
+
 **Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
 Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
 [[Code]](https://github.com/wwylab/CliPP) \
