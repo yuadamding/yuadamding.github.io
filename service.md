@@ -10,7 +10,8 @@ __*Reviewer of Journals*__
 - **Journal of the American Statistical Association** 
 - **Nature Reviews Cancer** 
 - **IEEE Transactions on Medical Imaging** 
-
+- **Genome Research**
+  
 __*Reviewer of Conference*__
 - **STAIX 2026** 
 
