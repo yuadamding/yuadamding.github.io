@@ -16,6 +16,7 @@ __Manuscripts__
 **Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
 Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
 [[Code]](https://github.com/wwylab/CliPP) \
+Under Review by <em>Genome Medicine</em>. \
 <em>Research in Computational Molecular Biology (RECOMB) 2026</em>
 [[https://doi.org/10.1101/2021.03.31.437383]](https://doi.org/10.1101/2021.03.31.437383)
 
