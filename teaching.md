@@ -2,7 +2,7 @@
 layout: page
 excerpt: "TEACHING"
 menutitle: TEACHING
-menuorder: 7
+menuorder: 6
 ---
 __Rice University__
 - Statistics 623-423 Probability in Bioinformatics and Genetics
@@ -31,3 +31,4 @@ __Wayne State University__
 
 __Others__
 - An Introduction to Python Applications in AI and Machinel Learning
+

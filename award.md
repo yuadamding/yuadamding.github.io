@@ -2,7 +2,7 @@
 layout: page
 excerpt: "Honors and Awards"
 menutitle: Honors
-menuorder: 5
+menuorder: 4
 --- 
 
 __*Best Paper Award*__
