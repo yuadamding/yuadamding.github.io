@@ -2,7 +2,7 @@
 layout: page
 excerpt: "blog"
 menutitle: BLOG
-menuorder: 9
+menuorder: 10
 ---
 __Some ideas__
 
