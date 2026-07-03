@@ -4,6 +4,9 @@ excerpt: "Talks and Presentations"
 menutitle: Talks
 menuorder: 3
 ---
+**Scalable subclonal reconstruction of cancer cells via penalized likelihood**\
+NIH NCI SSACB 2026, NIH.
+
 **Boundary-Specific Remodeling Defines Divergent TLS Maturation in Colorectal Cancer**\
 James P. Allison Institute 3rd Annual Scientific Symposium 2025, MD Anderson Cancer Center. [Poster Presentation](/files/Poster-Afrooz_Jahedi-36x48_45x60-Final_Allison_Symp_2025.pdf).
 
