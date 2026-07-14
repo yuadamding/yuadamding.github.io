@@ -1,9 +1,12 @@
----
+<img width="1202" height="59" alt="image" src="https://github.com/user-attachments/assets/223c3d72-43b0-4cef-b10c-6c2b7fe78bc6" />---
 layout: page
 excerpt: "Talks and Presentations"
 menutitle: Talks
 menuorder: 3
 ---
+**Simpson’s Paradox in the association of subclonal mutations with cancer prognosis under immunotherapy**\
+UCLA CGSI 2026, UCLA, Oral presentation
+
 **Scalable subclonal reconstruction of cancer cells via penalized likelihood**\
 National Cancer Institute SSACB 2026, National Institutes of Health. [Poster Presentation](/files/ssacb2026_07042026.pdf)
 
