@@ -1,4 +1,4 @@
-<img width="1202" height="59" alt="image" src="https://github.com/user-attachments/assets/223c3d72-43b0-4cef-b10c-6c2b7fe78bc6" />---
+---
 layout: page
 excerpt: "Talks and Presentations"
 menutitle: Talks
