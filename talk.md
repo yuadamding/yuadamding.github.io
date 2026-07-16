@@ -17,7 +17,7 @@ James P. Allison Institute 3rd Annual Scientific Symposium 2025, MD Anderson Can
 James P. Allison Institute 3rd Annual Scientific Symposium 2025, MD Anderson Cancer Center. [Poster Presentation](/files/AllisonSymposium_FINAL_Amina,NUR2025.pdf).
 
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
-Mayo Clinic Arizona, July 1, 2024. Invited talk[[Slides]](/files/Talk_Yu_Ding1.pdf).
+Mayo Clinic Arizona, July 1, 2024. Invited talk. [[Slides]](/files/Talk_Yu_Ding1.pdf).
   
 **Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
 IISE Montreal, Canada. May 18, 2024. Conference Presentation[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)[[Slides]](/files/Talk_Yu_Ding1.pdf).
