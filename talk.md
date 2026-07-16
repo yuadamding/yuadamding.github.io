@@ -5,7 +5,7 @@ menutitle: Talks
 menuorder: 3
 ---
 **Bidirectional Prognostic Associations of Subclonal Mutation Fraction in Patients Receiving Immunotherapy**\
-UCLA CGSI 2026, UCLA, Oral presentation
+UCLA CGSI 2026, UCLA, Oral presentation. [Slides](/files/CGSI_2026.pdf)
 
 **Scalable subclonal reconstruction of cancer cells via penalized likelihood**\
 National Cancer Institute SSACB 2026, National Institutes of Health. [Poster Presentation](/files/ssacb2026_07042026.pdf)
