@@ -4,7 +4,7 @@ excerpt: "Talks and Presentations"
 menutitle: Talks
 menuorder: 3
 ---
-**Simpson’s Paradox in the association of subclonal mutations with cancer prognosis under immunotherapy**\
+**Bidirectional Prognostic Effects of Subclonal Mutations in Patients Receiving Immunotherapy**\
 UCLA CGSI 2026, UCLA, Oral presentation
 
 **Scalable subclonal reconstruction of cancer cells via penalized likelihood**\
