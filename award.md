@@ -4,6 +4,9 @@ excerpt: "Honors and Awards"
 menutitle: Honors
 menuorder: 4
 --- 
+__*Competitions*__
+- **STAI-X Challenge Award B — Autonomous Data-Analysis Agent Honorable Mention**\
+STAI-X, Harvard University, Aug 2026
 
 __*Best Paper Award*__
 - **Quality Control & Reliability Engineering (QCRE) Best Student Paper Competition Finalist**\
