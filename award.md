@@ -8,6 +8,9 @@ __*Competitions*__
 - **STAI-X Challenge Award B — Autonomous Data-Analysis Agent Honorable Mention**\
 STAI-X, Harvard University, Aug 2026
 
+- **James P. Allison Institute IDSO Hackathon Best Team Award**\
+MD Anderson Cancer Center, 2025
+
 __*Best Paper Award*__
 - **Quality Control & Reliability Engineering (QCRE) Best Student Paper Competition Finalist**\
 Institute of Industrial and Systems Engineers Annual Conference & Expo Montreal, May 2024
@@ -22,10 +25,6 @@ The University of Kansas, 2019
 
 - **Graduate Fellowship**\
 Wayne State University, 2018
-
-__*Competition*__
-- **James P. Allison Institute IDSO Hackathon Best Team Award**\
-MD Anderson Cancer Center, 2025
 
 __*Grant*__
 - **National Science Foundation (NSF) Travel Award**\
