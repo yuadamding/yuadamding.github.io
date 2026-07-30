@@ -19,6 +19,7 @@ I received my Doctor of Philosophy (Ph.D.) in Industrial and Systems Engineering
  
 ---
 #  News
+**`Nov 2025`** : [CliPP v1.4.1](https://github.com/wwylab/CliPP) is released. Full CUDA support is updated. CliPP is able to be deployed on GPU devices. <br>
 **`Jul 2026`** : I'm invited to present at UCLA CGSI 2026 with title "Bidirectional Prognostic Associations of Subclonal Mutation Fraction in Patients Receiving Immunotherapy". <br>
 **`May 2026`** : Our paper [A Cross-Sectional Analysis of Comprehensive Campus Health Services at MSI and Non-MSI Institutions in the U.S.](https://doi.org/10.1080/29944694.2026.2679111) is accepted by Journal of Health Equity. <br>
 **`May 2026`** : Our paper "[Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model
