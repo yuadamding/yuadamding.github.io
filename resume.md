@@ -24,7 +24,7 @@ M.S. in Industrial Engineering \
 __University of Science and Technology of China__ \
 B.S. in Geophysics
 
-last update: 02/2026
+last update: 10/2026
 <iframe src="/files/CV_Yu_Ding_10_2026.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 [//]: # You can download a PDF copy of my CV [here](/files/CV_Yu_Ding_10_2026.pdf).
