@@ -1,35 +1,31 @@
 ---
-layout: resume
-menuorder: 3
+layout: page
+excerpt: "resume"
 menutitle: CV
+menuorder: 10
 ---
 
-`2022 - present`
-__University of Maryland__
-NSF Postdoctoral Fellow
+__PROFESSIONAL EXPERIENCE__ \
+`2024 - Present`
+__The University of Texas MD Anderson Cancer Center__ \
+Postdoctoral Fellow in the Department of Bioinformatics and Computational Biology \
+`2019 - 2020`
+__The University of Kansas__ \
+Research Assistant in Operations Management at the School of Business
 
-## Education
-`2016 - 2022`
-__University of Illinois__
-Ph.D. in Neuroscience  
-`2012 - 2016`
-__Knox College__
-B.A. in Neuroscience 
+__EDUCATION__ \
+`2020 - 2024`
+__Binghamton University State University of New York__ \
+Ph.D. in Industrial and Systems Engineering  
+`2017 - 2019`
+__Wayne State University__ \
+M.S. in Industrial Engineering \
+`2013 - 2017`
+__University of Science and Technology of China__ \
+B.S. in Geophysics
 
-## Awards
-`2022`
-Postdoctoral Research Fellowship in Biology (PRFB: [DBI-2209257](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209257)), National Science Foundation  
-`2020`
-Dissertation Research Travel Grant, University of Illinois  
-`2015`
-Undergraduate Research Grant, Richter Memorial Fund, Knox College  
-`2015`
-Undergraduate Research Fellowship, ASSET Program, Knox College  
+last update: 02/2026
+<iframe src="/files/CV_Yu_Ding_10_2026.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-## Publications
-*For the most up-to-date publication history, please view my work on PubMed, Google Scholar or ResearchGate.*  
-
-[https://pubmed.ncbi.nlm.nih.gov/?term=coltan+g+parker](https://pubmed.ncbi.nlm.nih.gov/?term=coltan+g+parker)  
-[https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ](https://scholar.google.com/citations?hl=en&user=D7aja9wAAAAJ)  
-[https://www.researchgate.net/profile/Coltan-Parker/research](https://www.researchgate.net/profile/Coltan-Parker/research)  
+[//]: # You can download a PDF copy of my CV [here](/files/CV_Yu_Ding_10_2026.pdf).
 

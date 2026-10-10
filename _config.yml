@@ -1,28 +1,28 @@
 # Site wide configuration
 
-title: Coltan G. Parker, Ph.D.
+title: Yu Ding, Ph.D.
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Coltan G. Parker
-  avatar: bio-photo.jpg
-  bio: "NSF Postdoctoral Fellow"
-  email: #emailaddress
+  name: Yu (Adam) Ding
+  avatar: selfimg1.jpg
+  bio: "Specialized in statistical machine learning"
+  email: yding4@mdanderson.org #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: www.linkedin.com/in/coltan-parker
-  github: coltanparker
-  orcid: 0000-0001-6257-2598
-  researchgate: Coltan-Parker
+  twitter: #
+  linkedin: yuadamding#username
+  github: yuadamding
+  orcid: 0009-0008-7845-560X
+  researchgate: #
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: D7aja9wAAAAJ
-  facebook: #username
+    scholar: UdiyDmQAAAAJ&hl
+  facebook: #username 
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
@@ -39,11 +39,12 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
+  pubmed : "https://www.ncbi.nlm.nih.gov/myncbi/yu.ding.5/bibliography/public/"
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#53b56c'
-lowlight-color: '#28703a'
+highlight-color: '#ffd520'
+lowlight-color: '#abdcd6'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:

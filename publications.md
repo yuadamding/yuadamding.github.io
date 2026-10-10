@@ -1,0 +1,106 @@
+---
+layout: page
+excerpt: "Publications and Preprints"
+menutitle: Publications
+menuorder: 2
+---
+
+Sign * indicates corresponding authorship; sign <sup>+</sup> indicates co-first authorships.
+
+My articles are also available on [my Google Scholar profile](https://scholar.google.com/citations?user=UdiyDmQAAAAJ&hl=en).
+
+
+__Manuscripts__
+---
+**Host Nutritional State Reprograms Hepatic Anti-Tumor Immunity, Shaping Tumor Progression and Immunotherapy Outcome**\
+Shabnam Shalapour<sup>*</sup> ; Darleny L Corona; ...; **Yu Ding**; ...; Wenyi Wang; Spencer R Rosario; Xiling Shen; Nadim J Ajami \
+Under review by <em>Cancer Cell</em>
+
+
+**Macronutrient Composition and Alcohol Drives Distinct Molecular and Oncogenic Trajectories in the Liver**\
+Shabnam Shalapour<sup>*</sup> ; Spencer R Rosario; ...; **Yu Ding**; ...; Nadim J Ajami; Wenyi Wang; Alexander A Aksenov; Ludmil B Alexandrov \
+Under review by <em>Cell</em>
+
+**Scalable subclonal reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model**\
+Jiang, Y.<sup>+</sup>, Montierth, M. <sup>+</sup>,  **Ding, Y.**, Yu, K., Tran, Q., Wu, A., Li, R., Ji, S., Liu, X.,Shin, S., Cao, S., Tang, Y., Lesluyes, T., Sood, A., Kimmel, M., Wang, J., Tarabichi, M., Zhu, H., VanLoo, P., Wang, W.<sup>*</sup> 
+[[Code]](https://github.com/wwylab/CliPP) \
+Under Review by <em>Genome Medicine</em>. \
+<em>Research in Computational Molecular Biology (RECOMB) 2026</em>
+[[https://doi.org/10.1101/2021.03.31.437383]](https://doi.org/10.1101/2021.03.31.437383)
+
+**Tumor cell specific total mRNA expression informed neural networks predicts cancer progression**\
+Ankita Paul<sup>*</sup>, Jessica C. Lal<sup>*</sup>, Ji, S., Fong, C., Chen, K., **Ding, Y.**, Li, R., Dai, Y., Tran, Q., Montierth, M., Saverio, A., Kopetz, S., Wang, W.<sup>*</sup>  \
+<em>Research in Computational Molecular Biology (RECOMB) 2026</em>
+[[https://doi.org/10.64898/2026.05.01.722212]](https://doi.org/10.64898/2026.05.01.722212)
+
+**Single-Shot Differentially Private Vertical Federated Function-on-function Learning**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> \
+Pending Submission to <em>IEEE Transactions on Privacy</em>.
+[[Code]](https://github.com/yuadamding/s2dp_federated_study)
+
+
+**Boundary-Specific Remodeling Defines Divergent Tertiary Lymphoid Structure Maturation in Colorectal Cancer**\
+Jahedi, A.*, Unal, M., **Ding, Y.**, Nurmammadova, A., Liu, Y. \
+<em>James P. Allison Institute 3rd Annual Scientific Symposium 2025</em>, MD Anderson Cancer Center
+
+
+__Published/Accepted__
+---
+**A Cross-Sectional Analysis of Comprehensive Campus Health Services at MSI and Non-MSI Institutions in the U.S.**\
+Mueller, S.<sup>*</sup>, Sutherland, M. A., **Ding, Y.**, Si, B., Hutchinson, M. K. (2026) \
+<em>Journal of Health Equity</em>. [[https://doi.org/10.1080/29944694.2026.2679111]](https://doi.org/10.1080/29944694.2026.2679111)
+
+**Federated function-on-function regression with an efficient gradient boosting algorithm for privacy-preserving telemedicine**\
+**Ding, Y.**, Costa, C., Si, B.<sup>*</sup> (2026) \
+<em>IEEE Transactions on Automation Science and Engineering</em>. vol. 23, pp. 4704-4716.[[https://doi.org/10.1109/TASE.2026.3660098]](https://doi.org/10.1109/TASE.2026.3660098)\
+**QCRE Best Student Paper Competition Finalist**, IISE Montreal, 2024
+[[Code]](https://github.com/yuadamding/AI_Obstructive_Sleep_Apnea)
+[[Video]](https://www.youtube.com/watch?v=lzrxyQvC4EA&ab_channel=YuDing)
+
+**A novel sparse generalized structural equation modeling with structured sparsity for subgroup discovery from multi-modal mixed-type data**\
+**Ding, Y.**, Somers, V., Si, B.<sup>*</sup> (2025) \
+<em>IISE Transactions</em>, 57(12), 1497–1511.
+[[https://doi.org/10.1080/24725854.2024.2445776]](https://doi.org/10.1080/24725854.2024.2445776)
+
+**Statistical Machine Learning and Data Fusion Methodologies: Applications in Healthcare**\
+**Ding, Y.**(2024) \
+<em>State University of New York Binghamton University</em>. PhD Dissertation [[Link]](https://www.proquest.com/docview/3102310714?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+
+**Health screenings in college health centers: Variations in practice**\
+Sutherland, M. A.<sup>*</sup>, Hutchinson, M. K., Si, B., **Ding, Y.**, Liebermann, E., Connolly, S. L., … Mueller, S. D.  (2024) \
+<em>Journal of American College Health</em>, 73(8), 3031–3038.
+[[https://doi.org/10.1080/07448481.2024.2361307]](https://doi.org/10.1080/07448481.2024.2361307)
+
+**Student Health Services at Historically Black Colleges and Universities and Predominantly Black Institutions in the United States**\
+Mueller, S. D. <sup>*</sup>, Sutherland, M. A., Hutchinson, M. K., Si, B., **Ding, Y.**, Connolly, S. L. (2024) \
+<em>Health Equity</em>, 8(1), 226-234. 
+[[https://doi.org/10.1089/heq.2023.0219]](https://doi.org/10.1089/heq.2023.0219)
+
+**A novel sparse linear mixed model for multi-source mixed-frequency data fusion in telemedicine**\
+Alramadeen, W., **Ding, Y.**, Costa, C., Si, B. <sup>*</sup>   (2023)\
+<em>IISE Transactions on Healthcare Systems Engineering</em>, 13(3), 215-225.[[https://doi.org/10.1080/24725579.2023.2202877]](https://doi.org/10.1080/24725579.2023.2202877)\
+**IISE Featured Article**
+
+**A novel sparse model-based algorithm to cluster categorical data for improved health screening and public health promotion**\
+Jiang, L., **Ding, Y.**, Sutherland, M. A., Hutchinson, M. K., Zhang, C., Si, B. <sup>*</sup>  (2022) \
+<em>IISE Transactions on Healthcare Systems Engineering</em>, 12(2), 137-149. 
+[[https://doi.org/10.1080/24725579.2021.1980467]](https://doi.org/10.1080/24725579.2021.1980467)
+
+**A general accelerated destructive degradation testing model for reliability analysis**\
+**Ding, Y.**, Yang, Q. <sup>*</sup>, King, C. B., Hong, Y. (2019) \
+<em>IEEE Transactions on Reliability</em>, 68(4), 1272-1282.
+[[https://doi.org/10.1109/TR.2018.2883983]](https://doi.org/10.1109/TR.2018.2883983)
+
+
+
+
+<!---
+**Multi-System Conditional-Based Maintenance Planning with Soical Equity**\
+**Ding, Y.**, Si, W.<sup>*</sup> \
+Pending Submission to <em>Management Science</em>.
+
+**Condition-based Maintenance Planning with Memory Effects**\
+Si, W.<sup>*</sup>, Jia, Y, **Ding, Y.**,\
+Pending Submission to <em>IISE Transactions</em>.
+--->
+
